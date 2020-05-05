@@ -1,0 +1,19 @@
+{
+  "name": "eslint-config-giorgiosaud-js",
+  "version": "1.0.0",
+  "description": "Js Eslint Setup",
+  "author": "Jorge Saud <jsaud@modyo.com>",
+  "homepage": "https://github.com/Giorgiosaud/giorgiosaud-standard#readme",
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "directory": "packages/eslint-config-giorgiosaud-js",
+    "url": "git+ssh://git@github.com/Giorgiosaud/giorgiosaud-standard.git"
+  },
+  "scripts": {
+  },
+  "bugs": {
+    "url": "https://github.com/Giorgiosaud/giorgiosaud-standard/issues"
+  }
+}
